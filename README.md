@@ -1,7 +1,7 @@
 # AuditCommitteeMembers
  _Details of all FTSE 350 Audit Committee Members at a given date_
 
- This Python script leverages the **London Stock Exchange** [Refinitiv Data API](https://github.com/LSEG-API-Samples/Example.DataLibrary.Python) to retrieve key information for all the FTSE 350 companies Audit Commitee members at a given date.
+ This Python script leverages the **London Stock Exchange** [Refinitiv Data API](https://github.com/LSEG-API-Samples/Example.DataLibrary.Python) to retrieve key information for all the FTSE 350 companies Audit Committee members at a given date.
  The results are saved in a csv file, please check the [output](https://github.com/tonyfregoli/AuditCommiteeMembers/blob/main/Example%20Output/ftse350_20230911_audit_officers.csv) in the Example folder.
 
 # Requirements 
