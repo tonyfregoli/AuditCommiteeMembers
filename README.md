@@ -13,7 +13,7 @@ pip install pandas
 ```
  # Script execution
 
- From your python shell invoke the script includeing the date on which the snapshot of the commitee members is required in the format `yyyymmdd`, for instance:
+ From your python shell invoke the script includeing the date on which the snapshot of the committee members is required in the format `yyyymmdd`, for instance:
  ```shell
 python ftse350_auditmembers.py 20231127
 ```
