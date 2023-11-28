@@ -23,11 +23,11 @@ python ftse350_auditmembers.py 20231127
 
 The output is a CSV file with the following fields:
 - Instrument
-- Committee Name
+- Committee Name  
   (Audit only)
-- Committee Position of the Director
+- Committee Position of the Director  
   (indicates whether the individual is Chair or Member of the Audit Committee)
-- Committee Start Date
+- Committee Start Date  
   (when the individual joined the Audit Committee)
 - LEI
 - Company Name
@@ -37,11 +37,11 @@ The output is a CSV file with the following fields:
 - Officer Middle Name
 - Officer Last Name
 - Officer Start Date
-- Director Start Date
+- Director Start Date  
   (when the individual joined the Board for the first time) 
-- Position Start Date
+- Position Start Date  
   (start date of the role taken by the individual at the snapshot date)   
-- Position Description
+- Position Description  
   (description of the role taken by the individual at the snapshot date)   
 
 
