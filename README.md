@@ -11,6 +11,7 @@ The results are saved in a csv file, please check the [output](https://github.co
   pip install refinitiv.data
   pip install pandas
   ```
+- Make sure to have the _Eikon_ Desktop app running in the background   
 
 ## Script execution
 
