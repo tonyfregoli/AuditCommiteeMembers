@@ -14,9 +14,9 @@ The results are saved in a csv file, please check the [output](https://github.co
 
 ## Script execution
 
-From your python shell invoke the script including the date on which the snapshot of the committee members is required in the format `yyyymmdd`, for instance:
+From your python shell invoke the script including the API key as first argument and the date on which the snapshot of the committee members is required (in the format `yyyymmdd`) as second argument, for instance:
 ```shell
-python ftse350_auditmembers.py 20231127
+python ftse350_auditmembers.py abcdefghi123456789 20231127
 ```
 
 ## Output
